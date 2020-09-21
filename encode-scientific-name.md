@@ -2260,5 +2260,5 @@
 'Zonotrichia leucophrys x atricapilla': 'ZONLEA',
 'Zonotrichia querula': 'ZONQUE',
 'Zoothera aurea': 'ZOOAUR',
-'Zosterops japonicus': 'ZOSJAP',
+'Zosterops japonicus': 'ZOSJAP'
 }
